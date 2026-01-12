@@ -6,6 +6,7 @@ sap.ui.define([
     return Controller.extend("incidentmanagement.controller.View1", {
         onInit() {
             "Hello World"
+            "Hello World12345"
         }
     });
 });
